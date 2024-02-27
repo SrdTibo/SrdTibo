@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahukewjxxued2cueaxxjvqqehxfibliqfnoecbuqaq&url=https%3a%2f%2ffr.linkedin.com%2fin%2fthibault-serdet-669962226&usg=aovvaw1wxbnqpogiu0gmzou2lsc0&opi=89978449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahukewjxxued2cueaxxjvqqehxfibliqfnoecbuqaq&url=https%3a%2f%2ffr.linkedin.com%2fin%2fthibault-serdet-669962226&usg=aovvaw1wxbnqpogiu0gmzou2lsc0&opi=89978449" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thibault-serdet-669962226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thibault-serdet-669962226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
 <a href="https://instagram.com/boncybee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boncybee" height="30" width="40" /></a>
 </p>
 
