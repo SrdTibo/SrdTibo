@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FT-TRANSCENDANCE (42 school)<br>🌱 I’m currently learning HTML/CSS/JS/DJANGO<br>💬 Ask me about C, C++<br>⚡ Fun fact: I'm also a music producer and DJ
+🔭 I’m currently working on Internship1 (42 school)<br>🌱 I’m currently learning C# JS SQL<br>💬 Ask me about C, C++<br>⚡ Fun fact: I'm also a music producer and DJ
 
 
 ## 🌐 Socials:
