@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Internship1 (42 school)<br>🌱 I’m currently learning C# JS SQL<br>💬 Ask me about C, C++<br>⚡ Fun fact: I'm also a music producer and DJ
+🔭 I’m currently looking for a job <br>💬 Ask me about C, C++<br>⚡ Fun fact: I'm also a music producer and DJ
 
 
 ## 🌐 Socials:
